@@ -1,0 +1,16 @@
+{
+    "nome": "<h3>Nome:</h3> <strong>Celeste</strong>",
+    "sobre": "<h3>Sobre:</h3><strong>Jogo de plataforma indie, Você controla Madeline, uma jovem que decide escalar a montanha Celeste. Ao longo da jornada, ela enfrenta não apenas os desafios físicos da escalada, mas também suas próprias inseguranças e ansiedades. O jogo aborda temas como superação pessoal, saúde mental, e autoaceitação. </strong>",
+    "preco": " <h3>Preço:</h3> <strong> R$ 59,99 </strong>",
+    "imagem": "<img src='https://upload.wikimedia.org/wikipedia/commons/6/68/Celeste_box_art_cropped.png'>",
+    
+    "nome2": "<h3>Nome:</h3> <strong>Forager</strong>",
+    "Sobre2": "<h3>Sobre:</h3><strong> Jogo indie de aventura e exploração, O jogo não tem uma narrativa linear forte, mas começa com o jogador preso em uma ilha. A partir daí, o objetivo é expandir suas terras, coletar recursos e explorar o mundo ao seu redor. Embora a história não seja o foco principal, há alguns elementos de lore que podem ser descobertos ao longo do jogo. </strong>",
+    "Preco2": " <h3>Preço:</h3> <strong> R$ 37,99 </strong>",
+    "Image2": "<img src = 'https://store-images.s-microsoft.com/image/apps.49517.13796714672158376.aa1c19be-0d47-46ac-9fb3-74c8d6d9fdf8.061b6ecc-7883-45e5-be31-fb740679ad70'>",
+    
+    "nome3": "<h3>Nome:</h3> <strong>Minecraft</strong>",
+    "Sobre3": "<h3>Sobre:</h3><strong>jogo sandbox desenvolvido, Minecraft não possui uma narrativa linear. Em vez disso, os jogadores começam em um mundo gerado aleatoriamente e têm a liberdade de explorar, construir e sobreviver. O objetivo principal pode variar de jogador para jogador, desde construir estruturas impressionantes até explorar masmorras e derrotar criaturas.</strong>",
+    "Preco3": " <h3>Preço:</h3> <strong> R$ 199,00 ou R$ 99,00 </strong>",
+    "Image3": "<img src = 'https://upload.wikimedia.org/wikipedia/pt/9/9c/Minecraft_capa.png'>"
+}
